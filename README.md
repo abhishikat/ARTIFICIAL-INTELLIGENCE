@@ -6,3 +6,5 @@
       LAB 4- KNOWLEDGEBASE
       LAB 5- KNOWLEDGEBASE RESOLUTION
       LAB 6- UNIFICATION
+      LAB 7- FOL To CNF
+      LAB 8- Forward Resoning
